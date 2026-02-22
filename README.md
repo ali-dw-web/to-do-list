@@ -1,12 +1,24 @@
-# React + Vite
+# 📝 React Todo List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A simple, modern **Todo List application** built with **React** and **Tailwind CSS**.  
+> Keep track of your tasks, mark them as complete, and organize your daily activities easily.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Key Features
 
-## Expanding the ESLint configuration
+- ➕ **Add Tasks** – Quickly add new tasks to your list  
+- ✅ **Mark as Complete** – Check off tasks when done  
+- 🗑 **Delete Tasks** – Remove tasks that are no longer needed  
+- 🎨 **Responsive Design** – Built with Tailwind CSS for mobile and desktop  
+- ⚡ **Interactive UI** – Smooth and intuitive interface for task management
+- changing the theme of the List 
+- <img width="1366" height="640" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/31b73c72-1f2f-49fe-a3f3-a4f7742d55b8" />
+## 🌍 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Try the React Todo List live:
+
+- 🔗 Click the link below to **add, complete, and delete tasks** interactively.  
+- 🖥 Fully responsive **desktop, tablet, and mobile devices**.  
+
+[View Live Demo](https://to-do-list-ochre-six-31.vercel.app/)
